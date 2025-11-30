@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 (expected)
+  * Supervisor: Professor Junxian He
+  * Research Focus: Natural Language Processing, Machine Learning
+
+* **B.Eng.**, Shanghai Jiao Tong University, 2024
+  * Major: Computer Science
+  * Graduated: June 2024
+  * Award: Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX, February 2025 - Present
+  * Research focus on large language models and reasoning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, Tencent WXG, June 2024 - September 2024
+  * Advisor: Zifei Shan
+  * Research on vision-language models
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
+  * Advisor: Prof. Yu Cheng
+  * Research on natural language processing and foundation models
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, Java, C++
+* **Deep Learning Frameworks**: PyTorch, TensorFlow
+* **Research Areas**: Natural Language Processing, Machine Learning, LLM Reasoning, Vision-Language Models
+* **Languages**: Chinese (Native), English (Fluent)
 
 Publications
 ======
@@ -61,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for top-tier conferences (NeurIPS, ICML, EMNLP)
+* Student volunteer for academic conferences
