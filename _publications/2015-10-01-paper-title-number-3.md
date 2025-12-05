@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+category: conferences
+permalink: /publication/2015-10-01-universal-truthfulness-hyperplane
+excerpt: 'We discover and analyze the universal truthfulness hyperplane inside large language models, providing insights into LLM truthfulness and interpretability.'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'EMNLP 2024'
+paperurl: 'https://aclanthology.org/2024.emnlp-main.XXXX/'
+citation: 'Liu, J., Chen, S., Cheng, Y., & He, J. (2024). On the Universal Truthfulness Hyperplane Inside LLMs. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[Access paper here](https://aclanthology.org/2024.emnlp-main.XXXX/)
+
+## Abstract
+
+We present a comprehensive study on the existence of a universal truthfulness hyperplane inside large language models (LLMs). Through extensive experiments and analysis, we reveal systematic patterns in how LLMs represent truthfulness information, providing new insights into model interpretability and truthfulness mechanisms.
